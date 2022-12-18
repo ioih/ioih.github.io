@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://ioih.github.io/</loc>
     <lastmod>2022-12-18T21:50:19+08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/post/first_blog/</loc>
+    <loc>https://ioih.github.io/post/first_blog/</loc>
     <lastmod>2022-12-18T21:50:19+08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/post/</loc>
+    <loc>https://ioih.github.io/post/</loc>
     <lastmod>2022-12-18T21:50:19+08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://ioih.github.io/categories/</loc>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://ioih.github.io/tags/</loc>
   </url>
 </urlset>
